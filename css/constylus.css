@@ -1,0 +1,10 @@
+#cont{
+  text-align: left;
+  text-align: justify;
+  padding: 20px;
+}
+#legendset{
+  align-items: center;
+  width: 400px;
+  margin: 0 auto;
+}
